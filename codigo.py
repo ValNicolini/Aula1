@@ -3,7 +3,7 @@ from time import sleep
 #pip install pandas numpy openpyxl
 import pandas
 
-
+#teste
 
 pyautogui.PAUSE=0.5
 pyautogui.press('win')
